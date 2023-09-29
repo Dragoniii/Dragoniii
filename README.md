@@ -1,6 +1,6 @@
 <p align="left">
-Programador em formação... 
-   Start Coding | #1025 | ADA TECH
+Programador em formação...<br> 
+   Start Coding | #1025 | ADA TECH<br>
    Full Stack Web Developer  | #17ª Edição | GROWDEV
 </p>
 <p align="left">
