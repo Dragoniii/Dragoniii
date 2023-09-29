@@ -1,5 +1,10 @@
 <p align="left">
-   <strong> HTML | CSS | Javascript | Typescript </strong>
+Programador em formação... 
+   Start Coding | #1025 | ADA TECH
+   Full Stack Web Developer  | #17ª Edição | GROWDEV
+</p>
+<p align="left">
+   <strong> HTML | CSS | Javascript | Typescript </strong
 </p>
 <p align="left">
   <a href="jo.lsteffen@gmail.com">
