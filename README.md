@@ -1,5 +1,5 @@
 <p align="left">
-Programador em formação...:<br> 
+Programador em formação...<br> 
    Start Coding | #1025 | ADA TECH<br>
    Full Stack Web Developer  | #17ª Edição | GROWDEV
 </p>
