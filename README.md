@@ -4,7 +4,7 @@ Programador em formação...<br>
    Full Stack Web Developer  | #17ª Edição | GROWDEV
 </p>
 <p align="left">
-   <strong> HTML | CSS | Javascript | Typescript </strong
+   <strong> HTML | CSS | Javascript | Typescript | GO </strong
 </p>
 <p align="left">
   <a href="jo.lsteffen@gmail.com">
